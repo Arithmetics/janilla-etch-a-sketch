@@ -1,0 +1,21 @@
+#container {
+  width: 800;
+  height: 800;
+  background-color: pink;
+}
+
+
+.row {
+  display: block;
+  width: 100%;
+}
+
+.block {
+  display: inline-block;
+
+  background-color: black;
+}
+
+.swipped {
+  background-color: blue;
+}
